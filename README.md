@@ -1,2 +1,2 @@
-# EBlue
-A site just for me and my friend
+# EBlue spacex
+Plz work
