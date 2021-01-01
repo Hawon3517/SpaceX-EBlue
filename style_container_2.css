@@ -1,0 +1,43 @@
+.title {
+    width: 70%;
+    height: auto;
+    background-color: rgb(15, 80, 130);
+    text-align: center;
+}
+
+.list1 {
+    border: 1px  solid white;
+    border-color:  rgb(15, 80, 130);
+    width: 70%;
+    height: 400px;
+}
+
+.list2 {
+    text-align: left;
+    background-color: rgb(15, 80, 130);
+    width: 10px;
+}
+
+table th {
+    border-collapse: collapse;
+}
+
+.chapter {
+    width: 150px;
+    height: 200px;
+    border: 1px solid white;
+    border-color: white;
+    text-align: left;
+}
+
+a:link {
+    color:rgb(78, 175, 250)
+}
+
+a:visited {
+    color:rgb(78, 175, 250)
+}
+
+a:hover {
+    color: rgb(255, 217, 0);
+}

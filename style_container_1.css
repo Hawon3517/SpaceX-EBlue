@@ -1,0 +1,34 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+}
+
+.topbar {
+    width: 100%;
+    height: 60px;
+    background-color: rgb(15, 80, 130);
+    margin-top: 0%;
+}
+
+.Search {
+    width: 100%;
+    height: 25px;
+    background-color: rgb(15, 80, 130);
+}
+
+#EblueHome {
+    float: left;
+    margin-left: 5px;
+}
+
+#instruct {
+    float: left;
+    margin: 17px 0px 0px 25px;
+}
+
+#ShowOwner {
+    float: right;
+    margin: 15px 5px 0px 0px;
+}
+
